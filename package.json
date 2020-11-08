@@ -1,0 +1,9 @@
+{
+  "name": "TeachableMachine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "local-web-server": "4.2.1"
+  }
+}
